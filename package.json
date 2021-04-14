@@ -1,6 +1,6 @@
 {
   "name": "@rafistrauss/csv-merger",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Fork: Merge multiple CSV files into one",
   "main": "dist/index.js",
   "bin": {
